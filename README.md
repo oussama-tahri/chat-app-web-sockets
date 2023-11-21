@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="screenshots/UserLeft.png">
+<img src="screenshots/grpOfUsers.png">
 
 <br>
 
